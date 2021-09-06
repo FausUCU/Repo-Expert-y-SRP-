@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vI+GAei7Re+UVpm9BkyD/zByHPEJdUTRYHT6b3KloWxdr205IfKJmyVk8ETE02d2xy8nOP2m8soO9oKjUJQFsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faust\\OneDrive\\Escritorio\\Programacion02\\Ejercisios\\Grasp&solid02\\PII_Ejercicios_Expert_SRP\\Ejercicio 1\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faust\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\faust\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\faust\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
